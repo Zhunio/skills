@@ -19,6 +19,8 @@ disable-model-invocation: true
 
 ## Answer (all accounts)
 
+Keep each network's list compact, with consecutive chats and message lines. Use blank lines after network headings and between networks only.
+
 Examples (fictional sample data; use actual chat names, senders and messages at runtime):
 
 **#️⃣ Slack (7)**

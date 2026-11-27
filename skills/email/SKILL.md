@@ -31,6 +31,8 @@ disable-model-invocation: true
 
 ## Answer
 
+Keep each account's list compact, with consecutive mailbox/label groups and email lines. Use blank lines after account headings and between accounts only.
+
 Examples (fictional sample data; use actual account names and email content at runtime):
 
 **🏢 Work (11)**
