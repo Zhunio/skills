@@ -1,0 +1,7 @@
+interface:
+  display_name: "I Have ADHD"
+  short_description: "Answer-first output with clear progress and next actions"
+  default_prompt: "Use $i-have-adhd to make this response answer-first, easy to follow and clear about the next action."
+
+policy:
+  allow_implicit_invocation: false
