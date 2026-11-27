@@ -3,6 +3,8 @@ name: NetSuite
 description: Search, query, report, troubleshoot, and update NetSuite records with approval.
 ---
 
+**Requirements:** [NetSuite AI Connector + MCP Standard Tools](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_3200541651.html). Verify read-only access to the requested account/environment first; if unavailable, stop and direct the user to the linked setup.
+
 # NetSuite
 
 ## Check
