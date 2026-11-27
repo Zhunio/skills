@@ -4,6 +4,8 @@ description: Check, search, summarize, draft, and send email across all accounts
 disable-model-invocation: true
 ---
 
+**Requirements:** [Goodness-Gardens/mcp-email-server](https://github.com/Goodness-Gardens/mcp-email-server#quick-start) with configured accounts. Verify account listing first; if unavailable, stop and direct the user to the linked setup.
+
 ## Check
 
 - Check all accounts, folders and unread pages, including Junk and Spam.
