@@ -3,6 +3,8 @@ name: browser-use
 description: Browse logged-in sites through the dedicated automation Chrome, one profile per site, using the browser-use CLI. Use when a task needs a site that requires sign-in.
 ---
 
+**Requirements:** macOS, Chrome, shell access and [Browser Use CLI](https://docs.browser-use.com/open-source/browser-use-cli#install). Verify these first and the dedicated connection before browsing; if unavailable, stop and direct the user to the linked setup.
+
 # Browser Use
 
 Use the dedicated automation Chrome, never my regular Chrome. Browser-use commands connect to it at `BU_CDP_URL=http://127.0.0.1:9223`.
